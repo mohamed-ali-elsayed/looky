@@ -32,3 +32,11 @@ Results:
 ──────────────────────────────────────
   Found 2 result(s).
 ```
+
+## Installation
+
+**RHEL / CentOS / Fedora:**
+sudo rpm -ivh https://github.com/mohamed-ali-elsayed/looky/releases/download/v1.0/looky-1.0-1.el9.noarch.rpm
+
+**Ubuntu / Debian / Mint:**
+sudo dpkg -i https://github.com/mohamed-ali-elsayed/looky/releases/download/v1.0/looky_1.0-1.deb
