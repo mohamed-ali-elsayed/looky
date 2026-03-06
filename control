@@ -1,0 +1,12 @@
+Package: looky
+Version: 1.0-1
+Section: utils
+Priority: optional
+Architecture: all
+Depends: findutils
+Maintainer: Mohamed Ali Elsayed <your@email.com>
+Description: Interactive file search tool
+ looky is a friendly CLI wrapper around the find command.
+ It asks simple questions about filename, type, size, and
+ modification date — no need to remember find syntax.
+ Every field is optional, just press Enter to skip it.
